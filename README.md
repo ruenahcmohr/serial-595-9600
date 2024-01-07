@@ -13,7 +13,7 @@ These notes should be enough to help re-engineer the protocol if you want (faste
 
 Here a 555 is used for a schmitt-trigger, the system has been adapted to deal with the inversion (engineering option)
 
-![image](schematic.jpg)
+![image](schematic.jpg) 
 
 
 
